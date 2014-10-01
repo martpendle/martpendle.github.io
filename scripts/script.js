@@ -1,4 +1,3 @@
-$('.html').addClass();
-
-d3.select('.html');
-
+$('#menu').on('click', function(){
+    $(this).toggleClass('clicked');
+});
