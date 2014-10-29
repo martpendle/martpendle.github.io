@@ -9,3 +9,7 @@
 .clicked{
     background-color: blue;
 }
+
+.btn-area{
+    display:inline-block;
+}
