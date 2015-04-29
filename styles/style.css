@@ -13,3 +13,28 @@
 .btn-area{
     display:inline-block;
 }
+
+div.bar{
+    display:inline-block;
+    width:20px;
+    height: 75px;
+    background-color: teal;
+    margin-right:2px;
+}
+
+svg{
+    display:block;
+    margin-top:10px;
+}
+
+.axis path,
+.axis line{
+    fill:none;
+    stroke:black;
+    shape-rendering: crispEdges;
+}
+
+.axis text{
+    font-family:sans-serif;
+    font-size:11px;
+}
